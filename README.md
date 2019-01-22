@@ -11,7 +11,7 @@ Memory  |  1.5 GB
 Shipped Android Version | 4.4.4/5.0.2
 Storage | 16 GB
 MicroSD | Up to 64 GB
-Battery | 1900 mAh (non-removable)
+Battery | 1900 mAh (removable)
 Dimensions | 130.1 x 65.5 x 6.9 mm
 Display | 540 x 960 (qHD), 4.5" (114.3mm, ~245 ppi pixel density)
 Rear Camera  | 8.0 MP, LED flash, IMX219
